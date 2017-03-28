@@ -1,4 +1,4 @@
-package com.meh.matilda.config;
+package com.meh.matilda.app.config;
 
 import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.filter.DelegatingFilterProxy;

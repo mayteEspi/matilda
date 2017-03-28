@@ -1,4 +1,4 @@
-package com.meh.matilda.error;
+package com.meh.matilda.error.controller;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.context.request.WebRequest;

@@ -1,4 +1,4 @@
-package com.meh.matilda.error;
+package com.meh.matilda.error.controller;
 
 import java.text.MessageFormat;
 

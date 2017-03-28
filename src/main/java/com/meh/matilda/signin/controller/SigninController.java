@@ -1,4 +1,4 @@
-package com.meh.matilda.signin;
+package com.meh.matilda.signin.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

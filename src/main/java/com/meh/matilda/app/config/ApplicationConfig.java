@@ -1,4 +1,4 @@
-package com.meh.matilda.config;
+package com.meh.matilda.app.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

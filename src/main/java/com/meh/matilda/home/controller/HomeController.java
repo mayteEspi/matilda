@@ -1,4 +1,4 @@
-package com.meh.matilda.home;
+package com.meh.matilda.home.controller;
 
 import java.security.Principal;
 
